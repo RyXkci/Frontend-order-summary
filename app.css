@@ -1,6 +1,6 @@
 body {
     background-color: hsl(225, 100%, 94%);
-    background-image: url("file:///C:/Users/Ricardo/Desktop/Frontendmentor/01%20Order%20Summary/pattern-background-desktop.svg");
+    background-image: url("pattern-background-desktop.svg");
     background-repeat: no-repeat;
     font-family: 'Red Hat Display', sans serif;
     font-size: 16px;
@@ -136,7 +136,7 @@ button {
 
 @media (max-width: 470px) {
     body {
-        background-image: url(file:///C:/Users/Ricardo/Desktop/Frontendmentor/01%20Order%20Summary/pattern-background-mobile.svg);
+        background-image: url("pattern-background-mobile.svg");
     }
     .price .pricing {
         transform: none;
